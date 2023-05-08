@@ -1,0 +1,8 @@
+﻿  MainGame.cpp
+  Source.cpp
+  Sprite2.cpp
+C:\Users\sebas\source\repos\Project17\Project17\Sprite2.cpp(52,40): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\sebas\source\repos\Project17\Project17\Sprite2.cpp(55,37): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\sebas\source\repos\Project17\Project17\Sprite2.cpp(56,38): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  Generating Code...
+  Project17.vcxproj -> C:\Users\sebas\source\repos\Project17\Debug\Project17.exe
