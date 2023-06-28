@@ -1,1 +1,1 @@
-Estimado padawan los archivos glew32.dll y SDL2.dll debes copiarlos en tu carpeta Debug :D GAAAA
+La imagen hay evidencia de que la cantidad de humanos y zombies es la misma, pero hay que spammear la f al inicio porque los zombies se comen a los humanos muy rapido :)
